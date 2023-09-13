@@ -61,3 +61,9 @@ Program -02: Write a menu-driven program to perform the following operations:
 4. Image segmentation based on objects.
 5. Edge &amp; Contour Detection
 6. Text detection and recognition from input images.
+
+# Assignment 5:
+Experiment Number -01: Write a program to perform the following operation on images:
+1. Image Fusion
+2. Overlapping of images
+3. Separate the two images.
