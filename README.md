@@ -48,3 +48,16 @@ Write a program to perform Image Classification with localization, object
 detection, and image segmentation.
 1. Consider online images (one or more )with multiple objects.
 2.  Apply for Image datasets.
+
+## Assignment 4:
+Program -01 Text recognition from:
+1. Handwriting recognition
+2. Digit recognition using Digit Recognizer Data Science Project using MNIST Dataset.
+
+Program -02: Write a menu-driven program to perform the following operations:
+1. Read the Image and change the original color like B\W  to color or Colour  B\W.
+2. Classification of Images based on objects.
+3. Object detection and write the name of the object.
+4. Image segmentation based on objects.
+5. Edge &amp; Contour Detection
+6. Text detection and recognition from input images.
