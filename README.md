@@ -41,3 +41,10 @@ classes and determined the severity of the imbalance.
 Synthetic Minority Over-sampling Technique (SMOTE) to balance the dataset and train the model.
 3. Evaluation Metrics for Imbalanced Data: Evaluate your model using metrics like precision, recall,
 F1-score, and area under the ROC curve (AUC) that are suitable for imbalanced datasets.
+
+
+## Assignment 3:
+Write a program to perform Image Classification with localization, object
+detection, and image segmentation.
+1. Consider online images (one or more )with multiple objects.
+2.  Apply for Image datasets.
