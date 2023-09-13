@@ -62,6 +62,13 @@ Program -02: Write a menu-driven program to perform the following operations:
 5. Edge &amp; Contour Detection
 6. Text detection and recognition from input images.
 
+## Assignment 6:
+Write a program to perform the following operation on images:
+1. Remove Noise
+2. Blurred images to Deblurring images
+3. Remove Watermarking
+4. Remove background.
+
 # Assignment 5:
 Experiment Number -01: Write a program to perform the following operation on images:
 1. Image Fusion
